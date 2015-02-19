@@ -1,8 +1,8 @@
-class AwesomeGame extends UTDeathmatch 
+class AwesomeGame extends UTDeathmatch ;
 
 
 
 DefaultProperties
 {
-	//defaults
+	PlayerControllerClass=class'TestScript.AwesomePlayerController'
 }

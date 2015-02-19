@@ -1,4 +1,4 @@
-class AwesomePlayerController extends UTPlayerController
+class AwesomePlayerController extends UTPlayerController;
 
 simulated function PostBeginPlay()
 {
